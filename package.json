@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/r15-ragdoll",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Port of https://devforum.roblox.com/t/r15-rthro-ragdolls/338580",
 	"main": "out/init.lua",
 	"scripts": {
@@ -30,15 +30,15 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@rbxts/compiler-types": "^2.0.2-types.0",
+		"@rbxts/compiler-types": "^2.2.0-types.0",
 		"@rbxts/types": "^1.0.642",
-		"@typescript-eslint/eslint-plugin": "^5.37.0",
-		"@typescript-eslint/parser": "^5.37.0",
+		"@typescript-eslint/eslint-plugin": "^6.7.0",
+		"@typescript-eslint/parser": "^6.7.0",
 		"eslint": "^8.23.1",
-		"eslint-config-prettier": "^8.5.0",
-		"eslint-plugin-prettier": "^4.2.1",
-		"eslint-plugin-roblox-ts": "^0.0.34",
-		"prettier": "^2.7.1",
-		"typescript": "^4.8.3"
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-plugin-prettier": "^5.0.0",
+		"eslint-plugin-roblox-ts": "^0.0.36",
+		"prettier": "^3.0.3",
+		"typescript": "^5.2.2"
 	}
 }
